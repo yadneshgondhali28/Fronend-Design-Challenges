@@ -25,7 +25,7 @@ In this challenge i need to create a QR Code COmponent that can be easily viewed
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/yadneshgondhali28/Fronend-Design-Challenges/tree/main/QR-Code-Component)
 - Live Site URL: [Add live site URL here](https://664985639e6c5069d9b16917--effervescent-praline-2b270a.netlify.app/)
 
 ## My process
@@ -80,9 +80,9 @@ I will love to play more with CSS Flex-box.
 
 ## Author
 
-- Website - [Yadnesh Daulat Gondhali](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Yadnesh Daulat Gondhali](https://app.netlify.com/sites/effervescent-praline-2b270a/deploys/664985639e6c5069d9b16917)
+- Frontend Mentor - [@yadneshgondhali28](https://www.frontendmentor.io/profile/yadneshgondhali28)
+- Linkdein - [@Yadnesh Gondhali (He/Him)](https://www.linkedin.com/in/yadnesh-gondhali-b9b928257/)
 
 ## Acknowledgments
 
