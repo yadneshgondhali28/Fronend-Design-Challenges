@@ -80,7 +80,7 @@ I will love to play more with CSS Flex-box.
 
 ## Author
 
-- Website - [Yadnesh Daulat Gondhali](https://664985639e6c5069d9b16917--effervescent-praline-2b270a.netlify.app/)
+- Website - [Yadnesh Daulat Gondhali](https://yadneshgondhali28.github.io/my-portfolio-website/)
 - Frontend Mentor - [@yadneshgondhali28](https://www.frontendmentor.io/profile/yadneshgondhali28)
 - Linkdein - [@Yadnesh Gondhali (He/Him)](https://www.linkedin.com/in/yadnesh-gondhali-b9b928257/)
 
